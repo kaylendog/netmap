@@ -1,0 +1,15 @@
+{
+	"name": "netmap",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"mongoose": "^5.7.12"
+	},
+	"devDependencies": {
+		"@types/mongoose": "^5.5.32",
+		"@types/node": "^12.12.12",
+		"typescript": "^3.7.2"
+	}
+}
